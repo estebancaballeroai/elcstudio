@@ -177,12 +177,13 @@
       "lang": "FR",
       "emoji": "🏰",
       "description": "Un petit monde d'exercices de français et de mathématiques.",
-      "nextStep": "Vérifier fonctionnement et intégrer dans la plateforme spécialisée",
+      "nextStep": "Correctif du chargement des questions publié le 25/10/2026 ; recette interactive mobile à réaliser avant remise en service dans le catalogue.",
       "repository": "https://github.com/estebancaballeroai/e-ecole",
       "web": "https://estebancaballeroai.github.io/e-ecole/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a038190b900e9fd1c90243c",
-      "lastCodePush": "2026-05-17T18:27:41Z"
+      "lastCodePush": "2026-05-17T18:27:41Z",
+      "quality": "En vérification"
     },
     {
       "id": "theoscope",
