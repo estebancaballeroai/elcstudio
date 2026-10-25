@@ -135,14 +135,15 @@
       "lang": "ES",
       "emoji": "⚽",
       "description": "Scores, classements et football en direct dans une expérience mobile.",
-      "nextStep": "Vérifier fonctionnement et intégrer dans la plateforme spécialisée",
+      "nextStep": "Application fonctionnelle selon retour utilisateur du 25/10/2026 ; conserver et ne pas refondre. Audit automatisé API détaillé non réalisé.",
       "repository": "https://github.com/estebancaballeroai/footapp",
       "web": "https://estebancaballeroai.github.io/footapp/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03813e85f2ecd1447d68a2",
       "lastCodePush": "2026-10-20T19:46:29Z",
-      "quality": "En vérification",
-      "lastAudit": "2026-10-25"
+      "quality": "Fonctionne — confirmé par utilisateur",
+      "lastAudit": "2026-10-25",
+      "userConfirmationDate": "2026-10-25"
     },
     {
       "id": "ht-manager-ai",
