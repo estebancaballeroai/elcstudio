@@ -20,7 +20,9 @@
       "web": "https://estebancaballeroai.github.io/salidas/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03814f986feb6f016b0161",
-      "lastCodePush": "2026-07-29T19:23:14Z"
+      "lastCodePush": "2026-07-29T19:23:14Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "cap-a-territorial",
@@ -38,7 +40,9 @@
       "web": "https://estebancaballeroai.github.io/inet/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a038191bf74fb2c891a1bf7",
-      "lastCodePush": "2026-08-09T18:30:12Z"
+      "lastCodePush": "2026-08-09T18:30:12Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "cap-senat-68",
@@ -56,7 +60,9 @@
       "web": "https://estebancaballeroai.github.io/capsenat/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03811ca3ccf93b2d1f82d4",
-      "lastCodePush": "2026-07-29T07:07:42Z"
+      "lastCodePush": "2026-07-29T07:07:42Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "clubpilot",
@@ -74,7 +80,9 @@
       "web": "https://estebancaballeroai.github.io/hat3/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381f7a9bfd9e3d6fd53ac",
-      "lastCodePush": "2026-08-04T04:20:49Z"
+      "lastCodePush": "2026-08-04T04:20:49Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "delib-mlh",
@@ -92,7 +100,9 @@
       "web": "https://estebancaballeroai.github.io/delib/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381d7a0c7fa8757c59561",
-      "lastCodePush": "2026-08-18T11:01:10Z"
+      "lastCodePush": "2026-08-18T11:01:10Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "frigo-menus",
@@ -110,7 +120,9 @@
       "web": "https://estebancaballeroai.github.io/cocinafacil/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03819f9712e2945ccc3cbc",
-      "lastCodePush": "2026-07-29T19:44:24Z"
+      "lastCodePush": "2026-07-29T19:44:24Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "futbol-pulse",
@@ -128,7 +140,9 @@
       "web": "https://estebancaballeroai.github.io/footapp/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03813e85f2ecd1447d68a2",
-      "lastCodePush": "2026-10-20T19:46:29Z"
+      "lastCodePush": "2026-10-20T19:46:29Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "ht-manager-ai",
@@ -164,7 +178,9 @@
       "web": "https://estebancaballeroai.github.io/mathsquest/",
       "detail": "https://estebancaballeroai.github.io/elc-education/mathsquest/",
       "notion": "https://app.notion.com/p/404c68103a03815cb016c0a69ceb7899",
-      "lastCodePush": "2026-10-25T10:41:20Z"
+      "lastCodePush": "2026-10-25T10:41:20Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "monde-ce1-ce2-fantasy",
@@ -183,7 +199,8 @@
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a038190b900e9fd1c90243c",
       "lastCodePush": "2026-05-17T18:27:41Z",
-      "quality": "En vérification"
+      "quality": "Démarrage vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "theoscope",
@@ -201,7 +218,9 @@
       "web": "https://estebancaballeroai.github.io/theoscope2/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381d198fdd1f45f61fd80",
-      "lastCodePush": "2026-08-30T08:05:25Z"
+      "lastCodePush": "2026-08-30T08:05:25Z",
+      "quality": "Démarrage à examiner",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "atlas",
@@ -237,7 +256,9 @@
       "web": "https://estebancaballeroai.github.io/caminoalagloria3/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381b1860acd822273e441",
-      "lastCodePush": "2026-08-02T11:38:57Z"
+      "lastCodePush": "2026-08-02T11:38:57Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "celio-rpg",
@@ -273,7 +294,9 @@
       "web": "https://estebancaballeroai.github.io/exodusesp/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a03814baa00d7ea451445d4",
-      "lastCodePush": "2026-08-16T19:03:43Z"
+      "lastCodePush": "2026-08-16T19:03:43Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "hors-jeu",
@@ -291,7 +314,9 @@
       "web": "https://estebancaballeroai.github.io/horsjeu/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381cda16ccf718e546d2e",
-      "lastCodePush": "2026-07-27T12:02:12Z"
+      "lastCodePush": "2026-07-27T12:02:12Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "imperia",
@@ -309,7 +334,9 @@
       "web": "https://estebancaballeroai.github.io/imperia1/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381168ebbe441f85d2334",
-      "lastCodePush": "2026-08-19T09:28:48Z"
+      "lastCodePush": "2026-08-19T09:28:48Z",
+      "quality": "Démarrage à examiner",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "mandat-service",
@@ -327,7 +354,9 @@
       "web": "https://estebancaballeroai.github.io/mets41/",
       "detail": null,
       "notion": "https://app.notion.com/p/404c68103a0381178164f3b5dbe4b56c",
-      "lastCodePush": "2026-08-01T15:02:18Z"
+      "lastCodePush": "2026-08-01T15:02:18Z",
+      "quality": "Chargement vérifié",
+      "lastAudit": "2026-10-25"
     },
     {
       "id": "republique",
@@ -347,5 +376,11 @@
       "notion": "https://app.notion.com/p/404c68103a038150a75ae963c53a6652",
       "lastCodePush": null
     }
-  ]
+  ],
+  "audit": {
+    "date": "2026-10-25",
+    "method": "Chromium mobile 390x844, GitHub Pages, HTML/JS load and limited startup",
+    "run": "https://github.com/estebancaballeroai/elcstudio/actions/runs/40204038111",
+    "targeted": "https://github.com/estebancaballeroai/elcstudio/actions/runs/40204178467"
+  }
 }
