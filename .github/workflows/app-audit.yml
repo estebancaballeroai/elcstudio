@@ -1,0 +1,27 @@
+name: Audit ELC Apps - Mobile Smoke Tests
+on:
+  push:
+    paths:
+      - '.github/audit/site-audit.cjs'
+      - '.github/workflows/app-audit.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  mobile-audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save playwright@1.56.1
+      - run: node .github/audit/site-audit.cjs
+      - if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: elc-audit-mobile-report
+          path: audit-results/
+          if-no-files-found: ignore
+          retention-days: 14
