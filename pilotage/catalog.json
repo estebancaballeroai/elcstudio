@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-10-25",
-  "source": "Notion ELC Studio - Catalogue Applications; dates de code via GitHub pushed_at",
+  "snapshotDate": "2026-10-28",
+  "source": "Notion ELC Studio - catalogue et compléments vérifiés GitHub; dates de code GitHub",
   "privacy": "Projection publique sans données confidentielles; ne pas placer de secrets dans ce fichier.",
   "apps": [
     {
@@ -164,6 +164,44 @@
       "lastCodePush": null
     },
     {
+      "id": "labyrinthe-aventure",
+      "status": "code",
+      "phase": "Prototype",
+      "priority": "Moyenne",
+      "lang": "FR",
+      "nextStep": "Recette mobile à confirmer ; préserver la version précédente.",
+      "detail": null,
+      "name": "Labyrinthe Aventure",
+      "universe": "education",
+      "version": "1.0",
+      "repository": "https://github.com/estebancaballeroai/labyrinthe-aventure",
+      "web": "https://estebancaballeroai.github.io/labyrinthe-aventure/",
+      "notion": "https://app.notion.com/p/407c68103a038197a3d5d2246577a70b",
+      "emoji": "🧩",
+      "description": "30 labyrinthes, livres pédagogiques facultatifs pour CE2–CM1.",
+      "lastCodePush": "2026-10-28T05:41:25Z",
+      "quality": "En vérification"
+    },
+    {
+      "id": "math-shift-la-cite-des-anomalies",
+      "status": "code",
+      "phase": "Prototype",
+      "priority": "Moyenne",
+      "lang": "FR",
+      "nextStep": "Recette mobile à confirmer ; préserver la version précédente.",
+      "detail": null,
+      "name": "MATH SHIFT — La cité des anomalies",
+      "universe": "education",
+      "version": "0.2.0",
+      "repository": "https://github.com/estebancaballeroai/elc-education/tree/main/math-shift",
+      "web": "https://estebancaballeroai.github.io/elc-education/math-shift/",
+      "notion": "https://app.notion.com/p/407c68103a0381538dbec83f87cafea6",
+      "emoji": "🧮",
+      "description": "52 défis de mathématiques de troisième et parcours d'exploration.",
+      "lastCodePush": "2026-10-27T20:57:33Z",
+      "quality": "En vérification"
+    },
+    {
       "id": "maths-quest",
       "name": "Maths Quest",
       "universe": "education",
@@ -202,6 +240,25 @@
       "lastCodePush": "2026-05-17T18:27:41Z",
       "quality": "Parcours CE1/CE2 testés",
       "lastAudit": "2026-10-25"
+    },
+    {
+      "id": "bible-aventure",
+      "status": "code",
+      "phase": "Prototype",
+      "priority": "Haute",
+      "lang": "FR",
+      "nextStep": "Recette mobile à confirmer ; préserver la version précédente.",
+      "detail": null,
+      "name": "Bible Aventure",
+      "universe": "foi",
+      "version": "2.0",
+      "repository": "https://github.com/estebancaballeroai/elc-foi/tree/main/bible-aventure",
+      "web": "https://estebancaballeroai.github.io/elc-foi/bible-aventure/",
+      "notion": "https://app.notion.com/p/407c68103a03814490cacf08aed8b7e0",
+      "emoji": "📖",
+      "description": "Jeu principal V2.0 ; Pixel Lab V0.6 expérimental, distinct.",
+      "lastCodePush": "2026-10-27T14:02:47Z",
+      "quality": "En vérification"
     },
     {
       "id": "theoscope",
@@ -358,6 +415,25 @@
       "lastCodePush": "2026-08-01T15:02:18Z",
       "quality": "En vérification",
       "lastAudit": "2026-10-25"
+    },
+    {
+      "id": "palimpsesto-la-costa-que-recuerda",
+      "status": "code",
+      "phase": "Prototype",
+      "priority": "Moyenne",
+      "lang": "ES",
+      "nextStep": "Recette mobile à confirmer ; préserver la version précédente.",
+      "detail": null,
+      "name": "PALIMPSESTO — La costa que recuerda",
+      "universe": "games",
+      "version": "0.1.1 ES",
+      "repository": "https://github.com/estebancaballeroai/palimpsesto-rpg",
+      "web": "https://estebancaballeroai.github.io/palimpsesto-rpg/",
+      "notion": "https://app.notion.com/p/407c68103a038167a16bd5359ca2f50c",
+      "emoji": "🌌",
+      "description": "RPG narratif en espagnol, alternance entre MATERIA et ECO.",
+      "lastCodePush": "2026-10-25T20:49:25Z",
+      "quality": "En vérification"
     },
     {
       "id": "republique",
